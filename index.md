@@ -20,7 +20,7 @@ https://scratch.mit.edu/projects/717591709/fullscreen/ is a scratch project I ha
 <p>The controls are Left to move left and right to move right as well as space bar to jump (currently serves no purpose and can end your run). You have to dodge the falling spikeball.
 <br>
 <iframe src="https://scratch.mit.edu/projects/717591709/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-<br>
+<p></p>
 <p><strong>Week 2:</strong></p>
 <br>
 ___
