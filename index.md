@@ -1,9 +1,14 @@
-Week 1:
-___
-What is Scratch?
-What is visual programming?
-What are some programming principles that you have discovered?
-Can you share your favourite Scratch project that you have made or remixed?
+<p><strong>Week 1:</strong></p>
+<p></p>
+<p></p>
+<p></p>
+<p>What is Scratch?</p>
+<p>What is visual programming?</p>
+<p>What are some programming principles that you have discovered?</p>
+<p>Can you share your favourite Scratch project that you have made or remixed?</p>
+<p></p>
+<p>___</p>
+<p></p>
 Scratch is a visual coding language made at MIT. It uses blocks and a simple structure to introduce people to programming. I made a few games in Scratch and found it intuitive.
 
 Visual programming is a type of programming language that uses blocks or strings in a visual manner to create a hierachy or structure.
