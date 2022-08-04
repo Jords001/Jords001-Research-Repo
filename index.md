@@ -12,13 +12,13 @@ ___
 <p>Scratch is a visual coding language made at MIT. It uses blocks and a simple structure to introduce people to programming. I made a few games in Scratch and found it intuitive.</p>
 <p>Visual programming is a type of programming language that uses blocks or strings in a visual manner to create a hierachy or structure.</p>
 <p>DRY Code, or don't repeat yourself is a principle I have learnt. Basically not repeating code and finding an alternative to shorten lines of code down.</p>
-
+<br>
 https://scratch.mit.edu/projects/717591709/fullscreen/ is a scratch project I have enjoyed making as it mixed together animations and game principles.
-
+<br>
 <p> And here is another I have embeded here, this one is called falling spikes.</p>
-
+<br>
 <iframe src="https://scratch.mit.edu/projects/717591709/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
+<br>
 <p><strong>Week 2:</strong></p>
 <br>
 ___
