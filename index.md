@@ -21,7 +21,7 @@ https://scratch.mit.edu/projects/717591709/fullscreen/ is a scratch project I ha
 <br>
 <iframe src="https://scratch.mit.edu/projects/717591709/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 <p></p>
-<a href="../main/projects.md">link Here is the rest of my projects</a>
+<a href="../main/projects.html">link Here is the rest of my projects</a>
 <p><strong>Week 2:</strong></p>
 <br>
 ___
