@@ -79,70 +79,92 @@ This week we learnt a bit about Agile in working together, a short meeting and p
 ___
 Q:Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
 <br>
+
 A:I did try to do this, standing up and walking around/stretching or getting a drink of water etc. However I didn't always remember if I got absorbed in my work
 <br>
 ___
 Q:What is Timeboxing? Have you heard of it before? Will you use it?
+
 A:Timeboxing is a time management technique that sets a specific amount of time for tasks. I hadn't heard it be called that before but the technique is familiar. It's a possibility, I think if I'm not dedicating enough time/not dedicating time at the right time that I might be more inclined to use it.
 ___
 Q:On a a 0-5 scale, how confident are you with each of the assignments?
+
 A:I'm feeling confident with the assignments, maybe a 3 or 4. However I also have doubts when learning new things whether they relate to the assignments or not which can be confusing at times.
 ___
 Q:What are of you proud of up to this point in the course?
+
 A:Creating some loops and small programs or scripts in python. Starting to learn Godot and gdscript.
 ___
 Q:Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself.
+
 A:My personal strategy is to follow the content but in a way that interests me. I'd sometimes have to find an extended path to a solution when if I'd followed by just the book I may have come to the conclusion sooner.
 ___
 Q:If you could send a time traveling text message back to yourself at the start of this course, what would it say?
+
 A:I have been struggling a bit with anxiety and depression, maybe I'd tell myself it's going to be okay and to use the support networks I have more.
 ___
 Q:Have you developed a habit of exploring?
+
 A:I'd like to think I have with programming a bit beyond the brief with activites we were given and trying different avenues, sometimes using variables and other times using definitions or functions.
 ___
 Q:Have you meditated before?
+
 A:I have meditated before, it's something that can be quite refreshing but I feel you need to be open to the concept first
 ___
 Q:Is there something over which you have gained a degree of mastery before in your life? Gymnastics, Rubik's Cubes, A Video Game? What did it take?
+
 A:I took a 3D modeling course which I felt gave me some great skills and experience, I felt it took perserverance concentration and dedication
 ___
 Q:Do you consider yourself a developer yet?
+
 A:I might consider myself a junior developer, but given that I don't know what workloads are in the industry I'm not sure what to measure it against.
 ___
 Q:Do you value creativity? As a value itself? What about as a tool for learning to think logically?
+
 A:Yes, I think it always pays to think differently than a single mindset as otherwise you'll lock yourself into a pattern
 ___
 Q:How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
+
 A:I have 3 tabs open, all related to study. However I often have discord open, talking to friends at the same time, otherwise playing music.
 ___
 Q:Have you had a fight response to technology? What does it feel like? How did you overcome this?
+
 A:I think I have from frustration or mild anger, it pays to walk away and cool down/defuse and come to the problem from a different angle. Rethink the situation.
 ___
 Q:What is an IDE?
+
 A:An Integrated Developer Environment, a combination of different tools for developing inside of of a single interface or GUI
 ___
 Q:What did you learn out of the Marshmallow Challenge?
+
 A:Sometimes it's easier to trial short attempts in theory before settling on something to start with
 ___
 Q:Did you have any blocks during this challenge? How did you overcome them?
+
 A:One person was doing most of the work, divided into steps so more people could participate together
 ___
 Q:So far, what was the hardest moment of this course for you?
+
 A:I'm not sure I can think of a particular moment, but as I said earlier I have been struggling a bit with anxiety which has made general existence a bit rougher at the moment.
 ___
 Q:What is OOP?
+
 A:Object Oriented Programming
 ___
 Q:Are you using the canvas content? Do you find it helpful or tedious?
-Yes I am, no I'm not finding it overly tedious
+
+A:Yes I am, no I'm not finding it overly tedious
 ___
 Q:What is polymorphism?
+
 A:Polymorphism is the concept in OOP languages that you can use different classes within the same interface. Said classes can provide their own execution of the interface.
 ___
 Q:Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
+
 A:I have. It's self doubting in my ability to code or complete goals. No I don't believe what it says but
 ___
 Q:What is an MVP? How would you describe it to a group of 6 year olds?
+
 A:Minimum Viable Product, I would say this is the point in making something that it becomes useable. You want to make something useable before you give it away.
 ___
 Q:What is the hardest problem you have solved so far?
