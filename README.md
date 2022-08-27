@@ -170,26 +170,49 @@ ___
 Q:What is the hardest problem you have solved so far?
 ___
 Q:What is pair programming?
+
+A:Two programmers at one workstation, one writes the code and the other checks and provides guidance. At each goal discussions are made.
 ___
 Q:What are you looking forward to learning about programming?
+
+A:I'm not sure I have anything specific that I am looking forward to, but generally just learning to program interests me.
 ___
 Q:What is conscious listening?
+
+A:Conscious listening is being present and aware of both you and the participants feelings and needs.
 ___
 Q:What is a variable?
+
+A:A variable is easiest to think of as a storage box which contents can change or be modified depending on the program
 ___
 Q:What programming languages are you interested in learning? Why?
+
+A:C++ or C# because it is used in game engines which is something I am interested in
 ___
 Q:What is something kind that someone has done for you?
+
 A:B from my class helped me understand subnets and ip address conversion to binary
 ___
 Q:If you were describing programming to someone who knows nothing about it, what would you say?
+
+A:It's a set of rules and commands that have their own context and syntax to make computers do tasks relevant to the writing.
 ___
 Q:Which parts of this course made you feel doubtful of your own innate ability?
+
+A:I think that nothing in particular has made me feel this way, but general doubt does sometimes flood my mind.
 ___
 Q:What is a fixed mindset?
+
+A:A fixed mindset is getting stuck in a certain pattern of thinking which doesn't allow you to grow or change because you give up or limit yourself by failure.
 ___
 Q:What is something kind you have done for someone else?
+
+A:I gave a homeless man $15, always try to help my colleagues if I can/have understanding of the subject
 ___
 Q:Have you done mindfulness or attention training before?
+
+A:I have practised mindfulness meditation but not sure about training.
 ___
 Q:Have you developed a habit of persevering?
+
+A:I think I have developed this habit, as I don't like giving up.
