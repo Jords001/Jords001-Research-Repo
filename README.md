@@ -49,7 +49,13 @@ here are the scripts I have made so far <url>https://github.com/Jords001/Jords00
 <br>
 ## Week 4:
 <br>
-Roman introduced us to videographs (one such task we participated in in the form of a video train), blockchains as well as cylic graphs.
+Roman introduced us to videographs (one such task we participated in in the form of a video train), blockchains as well as cylic graphs. And an experiment of making a videograph by recording a video at the same time framing one other person and the recording ends when one person leaves any of  the frames. Then we all place the phones on the ground/table and and play them all at the same time.
+<br>
+I wasn't really worried about being a subject, I've taken part in films in 48 hours before and have made youtube videos etc which has removed any anxiety or shyness I may have once had long ago about being a subject recorded. Sometimes when I see my own image I think momentarily think things that I might like to be different about myself (eg balding hair etc( but I know I should also accept my body and the things that I can't change. We could be evolving with these devices as they're often used to capture our images and our lives. I didn't particularly feel attached to either my phone or my image, I felt I could trust the people around me. This activity could be drawn on to get people to understand each others feelings and to work together as a team.
+<br>
 He also introduced us to some of the machine learning artistic things circulating the industry at the moment. The likes of Dall-E and Midjourney. And a video that uses the technology in a unique way. Mask by FDK Knight otherwise known as Michael Logie. He wanted us to reflect on this and how it made us feel. Roman said he fed the story of Into the Maelstrom by Edgar Allan Poe. About the subtle nuiances about a developing technology and that it's not about this is going to replace artists because that's not what it's about and that it's about this new tool that is available.
 <br>
 I feel that this emerging technology is interesting, and has it's places but like Roman said that it's not going to replace artists. However I also feel that the art that this technology has already used is art that the artists have spent years developing. Contrary to that, it to me feels like it has the opportunity to go almost anywhere and be just about anything.
+<br>
+## Week 5:
+<br>
