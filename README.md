@@ -69,12 +69,14 @@ I feel that this emerging technology is interesting, and has it's places but lik
 <br>
 
 ## Week 5:
+
 <br>
 
 This week we learnt a bit about Agile in working together, a short meeting and pitching ideas to solve each others problems.
 <br>
 
-##General Reflection:
+## General Reflection:
+
 <br>
 ___
 Q:Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
@@ -149,7 +151,7 @@ A:I'm not sure I can think of a particular moment, but as I said earlier I have 
 ___
 Q:What is OOP?
 
-A:Object Oriented Programming
+A:Object Oriented Programming a paradigm in programming which relies on classes and objects rather than functions
 ___
 Q:Are you using the canvas content? Do you find it helpful or tedious?
 
