@@ -1,5 +1,5 @@
 extends KinematicBody2D //This is what to apply the script to
-var velocity = Vector2(0,0) //vector2 is the 2D equivalent for physics only needs two coordinates X and Y
+var velocity = Vector2(0,0) ##vector2 is the 2D equivalent for physics only needs two coordinates X and Y
 var gravity = 2000 //variable for gravity
 func _physics_process(delta): //function for physics that updates on delta
 	
