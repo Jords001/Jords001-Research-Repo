@@ -89,8 +89,6 @@ This week we have started on Python Koans which is a series of tests checking yo
 
 <br>
 <br>
-___
-<br>
 Q:Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
 <br>
 
