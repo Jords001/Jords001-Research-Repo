@@ -83,6 +83,7 @@ In workshop me made marshmallow and spaghetti towers (also string and tape) whic
 <br>
 This week we have started on Python Koans which is a series of tests checking your knowledge in each aspect of Python, 304 tests, 37 lessons/subjects. So far I've completed 25% and 76/304 or 8 our of 37 lessons (29/08/2022) I struggled a bit with tuples and methods I'm finding a bit harder to understand.
 <br>
+<br>
 ## General Reflection:
 
 <br>
