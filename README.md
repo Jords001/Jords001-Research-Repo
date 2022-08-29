@@ -72,9 +72,17 @@ I feel that this emerging technology is interesting, and has it's places but lik
 
 <br>
 
-This week we learnt a bit about Agile in working together, a short meeting and pitching ideas to solve each others problems.
+This week we learnt a bit about Agile and working together, a short meeting and pitching ideas to solve each others problems. Roman acted as the Agile coordinator and coordinated who to speak and they'd do a short thing such as: What they did on the weekend, what they're working on/what their project is and
+if they have any blocks. Blocks are like roadblocks, things that might be stopping them from their idea or slowing them down, if there was a block then either Roman or anyone in the group could contribute to removing the block.
+
+In workshop me made marshmallow and spaghetti towers (also string and tape) which was to simulate the teamwork and short sprints of agile. This was an interesting exercise. Some of which I have covered in the general reflection below.
 <br>
 
+## Week 6:
+
+<br>
+This week we have started on Python Koans which is a series of tests checking your knowledge in each aspect of Python, 304 tests, 37 lessons/subjects. So far I've completed 25% and 76/304 or 8 our of 37 lessons (29/08/2022) I struggled a bit with tuples and methods I'm finding a bit harder to understand.
+<br>
 ## General Reflection:
 
 <br>
@@ -192,6 +200,7 @@ A:Minimum Viable Product, I would say this is the point in making something that
 ___
 Q:What is the hardest problem you have solved so far?
 <br>
+A:I'm not entirely sure, but one thing I got caught up on while playing around with godot was as simple as using if rather than elif which made a very specific difference. I have covered this in myPyhon/player.gd
 ___
 Q:What is pair programming?
 <br>
@@ -251,4 +260,4 @@ ___
 Q:Have you developed a habit of persevering?
 <br>
 
-A:I think I have developed this habit, as I don't like giving up.
+A:I think I have developed this habit, as I don't like giving up, and sometimes giving things a small break, trying to understand the concept that is needing to be solved and returning after thinking on it can lead to a fresh/revitalised perspective
