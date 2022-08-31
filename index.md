@@ -194,6 +194,9 @@ A:Minimum Viable Product, I would say this is the point in making something that
 Q:What is the hardest problem you have solved so far?
 <br>
 <br>
+A: I'm not entirely sure, but one thing I got caught up on while playing around with godot was as simple as using if rather than elif which made a very specific difference. I have covered this in myPyhon/player.gd
+<br>
+<br>
 Q:What is pair programming?
 <br>
 <br>
